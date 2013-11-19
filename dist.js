@@ -2071,7 +2071,6 @@ if (typeof window.Polymer === 'function') {
   document.register('polymer-element', {prototype: prototype});
 })(Polymer);
 
-//@ sourceMappingURL=polymer.concat.js.map;
 
     PolymerUI = {
       validateTheme: function() {
