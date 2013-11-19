@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Polymer Toolbar Example",
+  "description": "This extension demonstrates a toolbar in polymer.",
+  "version": "1.0",
+
+  "permissions": [
+    "https://secure.flickr.com/"
+  ],
+  "browser_action": {
+    "default_popup": "dist.html"
+  }
+}
