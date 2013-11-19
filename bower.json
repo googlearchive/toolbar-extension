@@ -1,0 +1,8 @@
+{
+  "name": "toolbar-extension",
+  "private": true,
+  "dependencies": {
+    "polymer-ui-toolbar": "Polymer/polymer-ui-toolbar#master",
+    "platform": "Polymer/platform#master"
+  }
+}
